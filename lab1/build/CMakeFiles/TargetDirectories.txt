@@ -1,0 +1,5 @@
+/coursegrader/code/answer/build/CMakeFiles/rebuild_cache.dir
+/coursegrader/code/answer/build/CMakeFiles/edit_cache.dir
+/coursegrader/code/answer/build/CMakeFiles/compiler.dir
+/coursegrader/code/answer/build/CMakeFiles/jsoncpp.dir
+/coursegrader/code/answer/build/CMakeFiles/Front.dir
